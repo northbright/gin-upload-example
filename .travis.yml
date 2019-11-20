@@ -10,3 +10,4 @@ services:
 before_install:
 
 install:
+  - go get github.com/northbright/pathhelper
