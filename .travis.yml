@@ -11,3 +11,6 @@ before_install:
 
 install:
   - go get github.com/northbright/pathhelper
+
+script:
+  - go build
