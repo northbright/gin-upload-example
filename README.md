@@ -4,5 +4,14 @@
 
 gin-upload-example is an example of using [gin](https://github.com/gin-gonic/) to handle file uploading.
 
+## Dependencies
+* [gin](https://github.com/gin-gonic/)
+
+      go get -u github.com/gin-gonic/gin
+
+* [pathhelper](https://github.com/northbright/pathhelper)
+
+      go get -u github.com/northbright/pathhelper
+
 ## License
 * [MIT License](./LICENSE)
